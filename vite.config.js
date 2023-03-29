@@ -4,7 +4,7 @@ export default {
       // Treat these imports as external dependencies
       external: [
         'three',
-        'three/examples/jsm/loaders/GLTFLoader.js'
+        'three/examples/jsm/controls/OrbitControls'
       ],
       output: {
         // Provide global variables to use instead of import statements
