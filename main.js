@@ -40,7 +40,7 @@ const torus = new THREE.Mesh(geometry, material);
 // cubes
 
 const cubeSize = 120;
-const cubeG = new THREE.BoxBufferGeometry(cubeSize,cubeSize,cubeSize);
+const cubeG = new THREE.BoxGeometry(cubeSize,cubeSize,cubeSize);
 const cubeM = new THREE.MeshNormalMaterial({});
 
 const group = new THREE.Group();
