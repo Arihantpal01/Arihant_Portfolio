@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rasengan
+* source:	https://sketchfab.com/3d-models/rasengan-3f438648b26d489099f2bbc7d0e946f0
+* author:	supcyber (https://sketchfab.com/supcyber)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rasengan" (https://sketchfab.com/3d-models/rasengan-3f438648b26d489099f2bbc7d0e946f0) by supcyber (https://sketchfab.com/supcyber) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
